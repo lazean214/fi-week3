@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;700&display=swap');
 * {
     box-sizing: border-box;
+    
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 body{
@@ -219,4 +224,20 @@ footer ul li a {
 
 footer ul li a:hover{
     color: #7f0248;
+}
+
+
+/* Scroll to top */
+
+.sroll-top {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 1005;
+    cursor: pointer;
+    background: darkred;
+    padding: 1rem;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
 }
