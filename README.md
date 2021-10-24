@@ -1,4 +1,5 @@
-# fi-week3
-Filipino Institute Week 3 Class Code
+# Filipino Institute Activity
+
+Week 3: Intro to Responsive Webpage
 
 Demo : https://lazean214.github.io/fi-week3/
